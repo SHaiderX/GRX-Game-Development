@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: d71dd11a0ea99ac4697b6e9b4ffac775
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pauseButton: {instanceID: 0}
+  - OverScreen: {instanceID: 0}
+  - VictoryScreen: {instanceID: 0}
+  - bucksUI: {instanceID: 0}
+  - coin: {instanceID: 0}
+  - UIHelmet: {fileID: 6395209624704833902, guid: bed5269d30ceda0499a4a6700ed30a73,
+      type: 3}
+  - UIGauntlets: {fileID: 3794130982343688034, guid: 9896000b1abdbd94a914bc2567a85fe6,
+      type: 3}
+  - UIBackpack: {fileID: 212985327069885741, guid: 818c268fd634cfb42a5cbc1d228bbd34,
+      type: 3}
+  - UIChest: {fileID: 775862224788199396, guid: 853c54250e0461f4a820ee856d808071,
+      type: 3}
+  - UIPants: {fileID: 6205174082954051566, guid: b2f57c318c4dda4418dccde4c0489f22,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
